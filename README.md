@@ -1,5 +1,5 @@
 # WA State DMV Appointment Scraper
-Python script that automatically searches the official WA State DMV website for open appointment slots.  
+Python script that automatically searches the official WA State Licensing (DOL) website for open appointment slots.  
 Motivation behind this script was not being able to find open locations in WA state (due to COVID-19) and how tedious searching for locations was.
   
 The script requires the following packages:
